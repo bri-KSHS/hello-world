@@ -1,2 +1,2 @@
 # hello-world
-Prueba de repositorio
+Práctica 1 Fundamentos de Programación
